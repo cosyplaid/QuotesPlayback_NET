@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\01 .NET\\QuotesPlayback_Microservice\\QuotesPlayback_NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40AB0B77-E736-4B14-A941-EAA30BDE2B39}|QuotesPlayback_NET.csproj|d:\\01 .net\\quotesplayback_microservice\\quotesplayback_net\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AB0B77-E736-4B14-A941-EAA30BDE2B39}|QuotesPlayback_NET.csproj|solutionrelative:extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AB0B77-E736-4B14-A941-EAA30BDE2B39}|QuotesPlayback_NET.csproj|d:\\01 .net\\quotesplayback_microservice\\quotesplayback_net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AB0B77-E736-4B14-A941-EAA30BDE2B39}|QuotesPlayback_NET.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AB0B77-E736-4B14-A941-EAA30BDE2B39}|QuotesPlayback_NET.csproj|d:\\01 .net\\quotesplayback_microservice\\quotesplayback_net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40AB0B77-E736-4B14-A941-EAA30BDE2B39}|QuotesPlayback_NET.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AB0B77-E736-4B14-A941-EAA30BDE2B39}|QuotesPlayback_NET.csproj|d:\\01 .net\\quotesplayback_microservice\\quotesplayback_net\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{40AB0B77-E736-4B14-A941-EAA30BDE2B39}|QuotesPlayback_NET.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AB0B77-E736-4B14-A941-EAA30BDE2B39}|QuotesPlayback_NET.csproj|d:\\01 .net\\quotesplayback_microservice\\quotesplayback_net\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AB0B77-E736-4B14-A941-EAA30BDE2B39}|QuotesPlayback_NET.csproj|solutionrelative:models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AB0B77-E736-4B14-A941-EAA30BDE2B39}|QuotesPlayback_NET.csproj|d:\\01 .net\\quotesplayback_microservice\\quotesplayback_net\\quotecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AB0B77-E736-4B14-A941-EAA30BDE2B39}|QuotesPlayback_NET.csproj|solutionrelative:quotecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AB0B77-E736-4B14-A941-EAA30BDE2B39}|QuotesPlayback_NET.csproj|d:\\01 .net\\quotesplayback_microservice\\quotesplayback_net\\controllers\\quotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AB0B77-E736-4B14-A941-EAA30BDE2B39}|QuotesPlayback_NET.csproj|solutionrelative:controllers\\quotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\01 .NET\\QuotesPlayback_Microservice\\QuotesPlayback_NET\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "D:\\01 .NET\\QuotesPlayback_Microservice\\QuotesPlayback_NET\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-21T16:29:58.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\01 .NET\\QuotesPlayback_Microservice\\QuotesPlayback_NET\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\01 .NET\\QuotesPlayback_Microservice\\QuotesPlayback_NET\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-21T15:47:21.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuotesController.cs",
+              "DocumentMoniker": "D:\\01 .NET\\QuotesPlayback_Microservice\\QuotesPlayback_NET\\Controllers\\QuotesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuotesController.cs",
+              "ToolTip": "D:\\01 .NET\\QuotesPlayback_Microservice\\QuotesPlayback_NET\\Controllers\\QuotesController.cs",
+              "RelativeToolTip": "Controllers\\QuotesController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T11:19:00.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Quote.cs",
+              "DocumentMoniker": "D:\\01 .NET\\QuotesPlayback_Microservice\\QuotesPlayback_NET\\Models\\Quote.cs",
+              "RelativeDocumentMoniker": "Models\\Quote.cs",
+              "ToolTip": "D:\\01 .NET\\QuotesPlayback_Microservice\\QuotesPlayback_NET\\Models\\Quote.cs",
+              "RelativeToolTip": "Models\\Quote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T11:15:57.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuoteContext.cs",
+              "DocumentMoniker": "D:\\01 .NET\\QuotesPlayback_Microservice\\QuotesPlayback_NET\\QuoteContext.cs",
+              "RelativeDocumentMoniker": "QuoteContext.cs",
+              "ToolTip": "D:\\01 .NET\\QuotesPlayback_Microservice\\QuotesPlayback_NET\\QuoteContext.cs",
+              "RelativeToolTip": "QuoteContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T11:22:17.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\01 .NET\\QuotesPlayback_Microservice\\QuotesPlayback_NET\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\01 .NET\\QuotesPlayback_Microservice\\QuotesPlayback_NET\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADgvwgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T11:14:58.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "D:\\01 .NET\\QuotesPlayback_Microservice\\QuotesPlayback_NET\\Extensions.cs",
+              "RelativeDocumentMoniker": "Extensions.cs",
+              "ToolTip": "D:\\01 .NET\\QuotesPlayback_Microservice\\QuotesPlayback_NET\\Extensions.cs",
+              "RelativeToolTip": "Extensions.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T13:22:25.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

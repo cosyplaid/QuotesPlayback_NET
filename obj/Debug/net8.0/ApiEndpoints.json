@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "QuotesPlayback_NET.Controllers.QuotesController",
+    "Method": "GetRandomQuote",
+    "RelativePath": "quotes/GetRandomQuote",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "QuotesPlayback_NET.Quote",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

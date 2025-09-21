@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QuotesPlayback_NET.props" />
+</Project>
